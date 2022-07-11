@@ -7,4 +7,4 @@ setup(name='HW14',
       author='Royal Wang',
       author_email='rjw8ng@virginia.edu',
       license='MIT',
-      packages=['booklover'])
+      packages=['booklover', 'booklover_test'])
